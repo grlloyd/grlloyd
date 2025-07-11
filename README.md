@@ -36,7 +36,7 @@ I'm passionate about transforming complex data into actionable insights, particu
 ## 📫 How to Reach Me
 - [GitHub](https://github.com/grlloyd)
 - [LinkedIn](https://www.linkedin.com/in/gavin-lloyd-39408655) 
-- Email: g.r.lloyd@bham.ac.uk
+- Email: g.r.lloyd [at] bham.ac.uk
 
 ---
 
